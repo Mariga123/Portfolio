@@ -1,9 +1,9 @@
 The Star And Thank Author License (SATA)
 
-Copyright (c) [Reagan Owiti](https://github.com/REAGAN2020
-) owitireagan1@gmail.com>
+Copyright (c) [Mariga](https://github.com/Mariga123
+) johnmariga8@gmail.com>
 
-Project Url:https://github.com/REAGAN2020/Portfolio
+Project Url:https://github.com/Mariga123/Portfolio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

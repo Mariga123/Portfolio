@@ -1,18 +1,17 @@
-# ![Portfolio](https://github.com/REAGAN2020/Portfolio)
+# ![Portfolio](https://github.com/Mariga123/Portfolio.git)
 # Portfolio
 <table>
 <tr>
 <td>
-  Hello!I'm Reagan a web developer  at moringa school.I am currently doing my studies there.
-  In this portfolio i believe you'll find most of the thimgs about me.
-  I have created a website before of a restaurant and below is the live link.
+  Hello!I'm Mariga a web developer  at moringa school.I am currently doing my studies there.
+  In this portfolio i believe you'll find most of the things about me.
 </td>
 </tr>
 </table>
 
 
 ## Demo
-Here is a working live demo :  https://reagan2020.github.io/Portfolio/
+Here is a working live demo :  https://Mariga123.github.io/Portfolio/
 
 ### Development
 Want to contribute? Great!
@@ -29,9 +28,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/REAGAN2020/Portfolio) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Mariga123/Portfolio.git) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/REAGAN2020/Portfolio). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Mariga123/Portfolio.git). Please include sample queries and their corresponding results.
 
 ## Built with 
 
@@ -40,5 +39,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## License
 
-[MIT © ](https://github.com/REAGAN2020/portfolio/blob/master/LICENSE.md)
+[MIT © ](https://github.com/Mariga123/portfolio/blob/master/LICENSE.md)
 
